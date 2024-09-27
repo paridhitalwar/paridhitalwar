@@ -4,10 +4,10 @@
 
 Welcome to my GitHub profile! I'm Paridhi Talwar, a passionate Master's student in Computer Science at Boston University. My journey in the tech world is driven by my love for Data Science and AI/ML.
 
-🌟 Current Projects:
+🌟 **Current Projects:**
 
-- Cryptocurrency Investment Analysis: Analyzing Bitcoin price trends and predicting movements using neural network models.
-- Smart Fridge Tracker: Developing a mobile app for managing fridge and pantry ingredients, meal planning, and recipe recommendations.
+- **Cryptocurrency Investment Analysis:** Analyzing Bitcoin price trends and predicting movements using neural network models.
+- **Smart Fridge Tracker:** Developing a mobile app for managing fridge and pantry ingredients, meal planning, and recipe recommendations.
 
 🚀 Career Goals: Actively seeking exciting internship and full-time opportunities for Fall 2024, aiming to apply my skills in Data Science and AI to solve real-world problems.
 
