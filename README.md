@@ -2,11 +2,14 @@
 
 ## 👩‍💻 About Me
 
-I'm a Master's student in Computer Science at Boston University with a passion for Data Science, AI/ML, and Supply Chain Management. I'm actively seeking internships and full-time roles for Fall 2024.
+Welcome to my GitHub profile! I'm Paridhi Talwar, a passionate Master's student in Computer Science at Boston University. My journey in the tech world is driven by my love for Data Science and AI/ML.
 
-- 🌱 I’m currently learning: Spark, PySpark, and advanced data analysis techniques.
-- 👯 I’m looking to collaborate on: Data Science projects, open-source contributions, and research in AI/ML.
-- 💬 Ask me about: Demand Forecasting, Supply Chain Management, Cryptocurrency Analysis, and Neural Networks.
+🌟 Current Projects:
+
+- Cryptocurrency Investment Analysis: Analyzing Bitcoin price trends and predicting movements using neural network models.
+- Smart Fridge Tracker: Developing a mobile app for managing fridge and pantry ingredients, meal planning, and recipe recommendations.
+
+🚀 Career Goals: Actively seeking exciting internship and full-time opportunities for Fall 2024, aiming to apply my skills in Data Science and AI to solve real-world problems.
 
 ## 🛠️ Technologies & Tools
 
@@ -16,20 +19,9 @@ I'm a Master's student in Computer Science at Boston University with a passion f
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-## 📈 GitHub Stats
+## 📊 Language Stats
 
-![Paridhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParidhiTalwar&show_icons=true&theme=radical)
-
-## 🔭 Projects
-
-### [Cryptocurrency Investment Analysis](https://github.com/ParidhiTalwar/CryptoInvestmentAnalysis)
-Analyzing Bitcoin price trends and using neural network models like CNN, RCNN, and LSTM to predict price movements.
-
-### [Focused Study](https://github.com/ParidhiTalwar/FocusedStudy)
-Developing a web platform to enhance student focus by curating YouTube videos into specific time categories and implementing a point system for rewards.
-
-### [Animal Intrusion Detection System](https://github.com/ParidhiTalwar/AnimalIntrusionDetection)
-Using Mask RCNN to detect animal intrusions and designing an alert system to notify users and authorities instantly.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ParidhiTalwar&layout=compact&theme=radical)
 
 ## 📫 How to reach me
 
