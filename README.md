@@ -25,6 +25,6 @@ Welcome to my GitHub profile! I'm Paridhi Talwar, a passionate Master's student 
 
 ## 📫 How to reach me
 
-- [LinkedIn](https://www.linkedin.com/in/paridhi-talwar/)
-- [Email](mailto:paridhitalwar2@gmail.com)
+[![LinkedIn](https://www.linkedin.com/in/paridhi-talwar/)
+[![Gmail](mailto:paridhitalwar2@gmail.com)
 
