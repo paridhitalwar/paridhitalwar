@@ -28,8 +28,12 @@ I’m looking for my next challenge where I can leverage my experience in buildi
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### 📈 GitHub Insights
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paridhitalwar&layout=compact&theme=vision-friendly-dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paridhitalwar&show_icons=true&theme=vision-friendly-dark&count_private=true)
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=paridhitalwar&show_icons=true&theme=tokyonight&count_private=true" alt="Paridhi Stats" />
+  <br/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=paridhitalwar&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
 
 ## 📫 How to reach me
 
