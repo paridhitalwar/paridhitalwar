@@ -11,7 +11,7 @@ I’m looking for my next challenge where I can leverage my experience in buildi
 * **Languages:** Python, JavaScript, SQL, Java
 * **AI/ML:** PyTorch, TensorFlow, Scikit-learn, LLM Integration, MLOps
 * **Web & Cloud:** React, Node.js, AWS (AI/ML Scholar), GCP, Docker
-* **Product:** Product Roadmap, Technical Specs, User Growth, Product Strategy
+* **Product:** Product Roadmap, Technical Specs, User Growth, Product Strategy, Wireframing, A/B Testing
 
 ### 🌟 Key Highlights
 * **Startup Leadership:** Previously served as a Founding Engineer & Head of Product, taking an AI-driven platform from concept to execution.
