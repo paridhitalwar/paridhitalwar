@@ -28,11 +28,11 @@ I’m looking for my next challenge where I can leverage my experience in buildi
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### 📈 GitHub Insights
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=vision-friendly-dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=vision-friendly-dark&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paridhitalwar&layout=compact&theme=vision-friendly-dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paridhitalwar&show_icons=true&theme=vision-friendly-dark&count_private=true)
 
 ## 📫 How to reach me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paridhi-talwar/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paridhitalwar2@gmail.com)
-[Portfolio/Resume]((https://paridhi-talwar.lovable.app))
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://paridhi-talwar.lovable.app)
