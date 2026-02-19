@@ -2,14 +2,21 @@
 
 ## 👩‍💻 About Me
 
-Welcome to my GitHub profile! I'm Paridhi Talwar, a passionate Master's student in Computer Science at Boston University. My journey in the tech world is driven by my love for Data Science and AI/ML.
+Welcome to my GitHub profile! I am a **Technical Product Leader & Software Engineer** with a Master’s in Computer Science and a focus on **AI/ML**. I thrive at the intersection of robust engineering and user-centric product strategy.
 
-🌟 **Current Projects:**
+### 🎯 Currently Seeking: PM | AI | SWE Roles
+I’m looking for my next challenge where I can leverage my experience in building AI startups from the ground up to create scalable, intelligent products.
 
-- **Cryptocurrency Investment Analysis:** Analyzing Bitcoin price trends and predicting movements using neural network models.
-- **Smart Fridge Tracker:** Developing a mobile app for managing fridge and pantry ingredients, meal planning, and recipe recommendations.
+### 🛠️ Technical Portfolio
+* **Languages:** Python, JavaScript, SQL, Java
+* **AI/ML:** PyTorch, TensorFlow, Scikit-learn, LLM Integration, MLOps
+* **Web & Cloud:** React, Node.js, AWS (AI/ML Scholar), GCP, Docker
+* **Product:** Product Roadmap, Technical Specs, User Growth, Product Strategy
 
-🚀 Career Goals: Actively seeking exciting internship and full-time opportunities for Fall 2024, aiming to apply my skills in Data Science and AI to solve real-world problems.
+### 🌟 Key Highlights
+* **Startup Leadership:** Previously served as a Founding Engineer & Head of Product, taking an AI-driven platform from concept to execution.
+* **Academic Excellence:** MS in Computer Science (Boston University).
+* **Innovation:** Frequent AI Hackathon participant and AWS AI & ML Scholar.
 
 ## 🛠️ Technologies & Tools
 
@@ -19,11 +26,13 @@ Welcome to my GitHub profile! I'm Paridhi Talwar, a passionate Master's student 
 ![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-## 📊 Language Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ParidhiTalwar&layout=compact&theme=radical)
+### 📈 GitHub Insights
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=vision-friendly-dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=vision-friendly-dark&count_private=true)
 
 ## 📫 How to reach me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paridhi-talwar/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paridhitalwar2@gmail.com)
+[Portfolio/Resume]((https://paridhi-talwar.lovable.app))
