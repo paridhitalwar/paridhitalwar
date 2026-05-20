@@ -31,8 +31,12 @@ I’m looking for my next challenge where I can leverage my experience in buildi
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=paridhitalwar&show_icons=true&theme=tokyonight&count_private=true" alt="Paridhi Stats" />
-  <br/>
+  <br />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=paridhitalwar&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <br />
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=paridhitalwar&theme=tokyonight" alt="GitHub Streak" />
+  </a>
 </p>
 
 ## 📫 How to reach me
